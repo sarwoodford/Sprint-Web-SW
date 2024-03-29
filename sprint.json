@@ -1,0 +1,39 @@
+[
+  {
+    "FirstName" : "Jennifer",
+    "LastName" : "Joy",
+    "Age" : 51,
+    "FamilyMembers" : ["Craig", "Mitchel", "Halle"],
+    "HasKids" : true
+  },
+  {
+    "FirstName" : "Sue",
+    "LastName" : "Woodford",
+    "Age" : 52,
+    "FamilyMembers" : ["Kate","Sara","Abby"],
+    "HasKids" : true,
+  },
+  {
+    "FirstName" : "Grant",
+    "LastName" : "Simms",
+    "Age" : 19,
+    "FamilyMembers" : ["Heather", "Shawn"],
+    "HasKids" : false
+  },
+  {
+    "Firstname" : "Amy",
+    "LastName" : "Howlett",
+    "Age" : 41,
+    "FamilyMembers" : "Chris",
+    "HasKids" : false
+  },
+  {
+    "FirstName" : "Geraldine",
+    "LastName" : "Furey",
+    "Age" : 78,
+    "FamilyMembers" : ["Albert","Andrew","Jack","Cecelia"],
+    "HasKids" : true
+  }
+]
+    
+    
